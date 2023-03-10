@@ -1,0 +1,12 @@
+main.c:48:6:Tone_start	8	static
+main.c:52:13:Tone_stop	8	static
+main.c:84:13:freq_set	24	static
+main.c:91:13:tone_stop	8	static
+main.c:95:13:tone_start	8	static
+main.c:137:8:song_A	24	static
+main.c:106:5:main	16	static
+main.c:159:8:song_B	24	static
+main.c:214:6:SystemClock_Config	96	static
+main.c:262:13:MX_TIM2_Init	48	static
+main.c:311:13:MX_GPIO_Init	16	static
+main.c:327:6:Error_Handler	4	static
